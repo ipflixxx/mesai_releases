@@ -1,13 +1,13 @@
 {
   "appId": "com.mesai.app",
-  "versionName": "1.0.8",
-  "versionCode": 10008,
+  "versionName": "1.0.9",
+  "versionCode": 10009,
   "minSupportedVersionCode": 10000,
   "mandatory": false,
-  "publishedAt": "2026-11-27T09:39:59Z",
-  "apkUrl": "https://github.com/ipflixxx/mesai_releases/releases/download/v1.0.8/mesai-v1.0.8-direct-release.apk",
-  "sha256": "650745e62ae08c43866eaab43f73eba1b23addfa3d90fd7a3384b0ba9ad76fa3",
-  "sizeBytes": 7514451,
+  "publishedAt": "2026-11-27T12:16:46Z",
+  "apkUrl": "https://github.com/ipflixxx/mesai_releases/releases/download/v1.0.9/mesai-v1.0.9-direct-release.apk",
+  "sha256": "ff2de185c8d51c8c2c84e15a29145f523bb2ad3fe3268c82bdd29e5eb4f7d5e8",
+  "sizeBytes": 7515739,
   "releaseNotes": [
     "Performans iyileştirmeleri ve hata düzeltmeleri."
   ]
