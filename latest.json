@@ -4,11 +4,11 @@
   "versionCode": 10007,
   "minSupportedVersionCode": 10000,
   "mandatory": false,
-  "publishedAt": "2026-11-27T08:14:33Z",
+  "publishedAt": "2026-11-27T09:10:31Z",
   "apkUrl": "https://github.com/ipflixxx/mesai_releases/releases/download/v1.0.7/mesai-v1.0.7-direct-release.apk",
-  "sha256": "bdedbb46ea6cc20832bfe201bf6c2dbd6f5309e209b27d07e100d355a5fa40f4",
-  "sizeBytes": 7514091,
+  "sha256": "7c3195d9502f86af10baf957e58b4637b06bbaf06f9b5216e4d53725fb7a974e",
+  "sizeBytes": 7514451,
   "releaseNotes": [
-    "Reklam entegrasyon çalışmaları"
+    "Reklam entegrasyonu"
   ]
 }
