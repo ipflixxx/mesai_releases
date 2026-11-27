@@ -1,0 +1,14 @@
+{
+  "appId": "com.mesai.app",
+  "versionName": "1.0.3",
+  "versionCode": 10003,
+  "minSupportedVersionCode": 10000,
+  "mandatory": false,
+  "publishedAt": "2026-11-26T00:35:26Z",
+  "apkUrl": "https://github.com/ipflixxx/mesai_releases/releases/download/v1.0.3/mesai-v1.0.3-direct-release.apk",
+  "sha256": "45b2d47eb2b4f48e1e57c6458d15cc8bd35980e4350a5fbda8509073763a1705",
+  "sizeBytes": 3593577,
+  "releaseNotes": [
+    "Arayüz iyileştirmeleri"
+  ]
+}
